@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7faf8a4;
+    color: #000000;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #2e3270c2;
+  }
+  
+  .contact {
+    text-align: center;
+    font-style: normal;
+  }
+  
+  h2 {
+    background-color: #ddd7e928;
+    padding: 10px;
+    color: #2e3270;
+  }
+  
+  .skills {
+    columns: 2;
+    padding-left: 30px;
+  }
+  
+  .skills li {
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 10px;
+  }
+  
